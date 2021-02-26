@@ -65,7 +65,7 @@ let package = Package(
     .package(
       name: "Firebase", 
       url: "https://github.com/firebase/firebase-ios-sdk.git",
-      from: "7.2.0"
+      from: "7.7.0"
     ),
     .package(
       name: "GoogleUtilities",
